@@ -57,11 +57,11 @@ p.firstp{
  }
  .opacity{
      color: whitesmoke;
-     opacity: 0.5;   
+     opacity: 0.9;   
  }
  .opacit{
     color: whitesmoke;
-     opacity: 0.9;  
+     opacity: 1;  
      margin: 5px 0 25px 0;
  }
 
@@ -132,7 +132,7 @@ p.firstp{
     max-width: 640px;
     max-height: 500px;
     margin: auto;
-    margin-top: 25vh;
+    margin-top: 22vh;
     font-size: 16px;
     text-justify: auto;
 
