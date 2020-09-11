@@ -130,9 +130,9 @@ p.firstp{
 section{
     width: 70%;
     max-width: 640px;
-    max-height: 510;
-    margin: 0 auto;
-    margin-top: 70px;
+    max-height: 500px;
+    margin: auto;
+    margin-top: 20vh;
     font-size: 16px;
     text-justify: auto;
 
